@@ -3,7 +3,7 @@
 ## About
 This repository contains the codes and data associated with the following manuscript: <br>
 
-Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, [<i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i>](link of the article). <br>
+Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, [<i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i>] <br>
 (* Corresponding authors)
 <br>
 
@@ -48,7 +48,7 @@ Contains all the necessary codes to reproduce the results in the manuscript.
 ## Data
 Contains the necessary data to obtain the plots
 
-# 1. ABIDE
+1. ABIDE
 
 a. FCM_CorrMat_asList (folder): Contains FC matrices corresponding to 820 subjects.
 
@@ -58,7 +58,7 @@ c. ABIDE_Subject_details.csv: Details of the 820 subjects.
 
 d. Phenotypic_ADI_R.csv: Phenotypic ADI-R scores of some ASD subjects.
 
-# 2. MPI_LEMON
+2. MPI_LEMON
 
 a. FCM_CorrMat_asList (folder): Contains FC matrices corresponding to 225 subjects.
 
@@ -78,17 +78,17 @@ d. MPILemon_Subject_details.csv: Details of the 225 subjects.
 ## OutputFiles
 Contains three folders: AllCorr, PosCorr, and Output_Plots
 
-# 1. AllCorr
+1. AllCorr
 
 Contains two folders: 'ABIDE' and 'MPI_LEMON', to store the outputs of ABIDE and MPI-LEMON datasets, respectively, corresponding to the analysis considering all the correlations from the FC matrices.
 
-# 2. PosCorr
+2. PosCorr
 
 Contains three folders: 'ABIDE', 'MPI_LEMON', and 'NeurosynthAnalaysis'. 
 ABIDE and MPI_LEMON folder store the outputs of ABIDE and MPI-LEMON datasets, respectively, corresponding to the analysis considering only the positive correlations from the FC matrices.
 NeurosynthAnalaysis contains the results corresponding to Neurosynth meta analaysis.
 
-# 3. Output_Plots
+3. Output_Plots
 
 Contains all the violin plots present in the manuscript (can be generated as well from the given code)
 
@@ -96,4 +96,4 @@ Contains all the violin plots present in the manuscript (can be generated as wel
 ## Citation
 In case you use the codes herein, please cite the following manuscript:
 
-Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, and [<i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i>](link).
+Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, and [<i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i>].
