@@ -3,7 +3,7 @@
 ## About
 This repository contains the codes and data associated with the following manuscript: <br>
 
-Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, [<i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i>] <br>
+Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, <i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i> <br>
 (* Corresponding authors)
 <br>
 
@@ -28,11 +28,11 @@ Contains all the necessary codes to reproduce the results in the manuscript.
 
 7. 05_CallJython_for_1DHoles.ipynb: Call Jython code to get representative cycles of one-dimensional holes.
 
-8. 06_NodePersist&Freq_1DHoles.ipynb: To calculate Node persistence and Node frequency. Also, perform the statistical test.
+8. 06_NodePersist&Freq_1DHoles.ipynb: To calculate Node persistence and Node frequency. Also, performs the statistical test.
 
 9. 07_NeurosynthAnalaysis.ipynb: To perform Neurosynth meta analaysis.
 
-10. 08_Homological_Scaffold_and_NodalPSS.ipynb: To calculate the Nodal PSS from homological scaffolds. Also, perform the statistical test.
+10. 08_Homological_Scaffold_and_NodalPSS.ipynb: To calculate the Nodal PSS from homological scaffolds. Also, performs the statistical test.
 
 11. jython_code_VRcomp_global_PosCorr.py: Jython code to get representative cycles of one-dimensional holes.
 
@@ -80,11 +80,11 @@ Contains three folders: AllCorr, PosCorr, and Output_Plots
 
 1. AllCorr
 
-Contains two folders: 'ABIDE' and 'MPI_LEMON', to store the outputs of ABIDE and MPI-LEMON datasets, respectively, corresponding to the analysis considering all the correlations from the FC matrices.
+Contains two folders: ABIDE and MPI_LEMON, to store the outputs of ABIDE and MPI-LEMON datasets, respectively, corresponding to the analysis considering all the correlations from the FC matrices.
 
 2. PosCorr
 
-Contains three folders: 'ABIDE', 'MPI_LEMON', and 'NeurosynthAnalaysis'. 
+Contains three folders: ABIDE, MPI_LEMON, and NeurosynthAnalaysis. 
 ABIDE and MPI_LEMON folder store the outputs of ABIDE and MPI-LEMON datasets, respectively, corresponding to the analysis considering only the positive correlations from the FC matrices.
 NeurosynthAnalaysis contains the results corresponding to Neurosynth meta analaysis.
 
@@ -96,4 +96,4 @@ Contains all the violin plots present in the manuscript (can be generated as wel
 ## Citation
 In case you use the codes herein, please cite the following manuscript:
 
-Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, and [<i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i>].
+Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, and <i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i>.
