@@ -96,4 +96,4 @@ Contains all the violin plots present in the manuscript (can be generated as wel
 ## Citation
 In case you use the codes herein, please cite the following manuscript:
 
-Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, and <i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i>.
+Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, <i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i>.
