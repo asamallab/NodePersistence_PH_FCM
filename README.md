@@ -22,7 +22,7 @@ Contains all the necessary codes to reproduce the results in the manuscript:
 
 4. 02_Gudhi_run_PEL1L2.ipynb: Calculates persistent entropy, $L^1$-norm, and $L^2$-norm, from the distance matrices on global scale using the Gudhi library.
 
-5. 03_Gudhi_run_RSNs_PEL1L2.ipynb: Calculates persistent entropy, $L^1$-norm, and $L^2$-norm, from the distance matrices on RSN level using the Gudhi library.
+5. 03_Gudhi_run_RSNs_PEL1L2.ipynb: Calculates persistent entropy, $L^1$-norm, and $L^2$-norm, from the distance matrices on RSN-level using the Gudhi library.
 
 6. 04_Wasserstein_distance.ipynb: Calculates 1-Wasserstein,  2-Wasserstein, and bottleneck distances, on global scale as well as RSN level using the Gudhi library.
 
@@ -40,9 +40,9 @@ Contains all the necessary codes to reproduce the results in the manuscript:
 
 13. Violin_plot_global_W1W2BD.ipynb: To generate violin plots for 1-Wasserstein,  2-Wasserstein, and bottleneck distances on global scale.
 
-14. Violin_plot_RSNs_PosCorr_PEL1L2.ipynb: To generate violin plots for persistent entropy, $L^1$-norm, and $L^2$-norm on RSN level.
+14. Violin_plot_RSNs_PosCorr_PEL1L2.ipynb: To generate violin plots for persistent entropy, $L^1$-norm, and $L^2$-norm on RSN-level.
 
-15. Violin_plot_RSNs_PosCorr_W1W2BD.ipynb: To generate violin plots for 1-Wasserstein, 2-Wasserstein, and bottleneck distances on RSN level.
+15. Violin_plot_RSNs_PosCorr_W1W2BD.ipynb: To generate violin plots for 1-Wasserstein, 2-Wasserstein, and bottleneck distances on RSN-level.
 
 
 ## Data
