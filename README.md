@@ -12,7 +12,7 @@ Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, <i>Node per
 The repository contains three folders: Code, Data, and OutputFiles. A description of the files contained in each folder is provided below.
 
 ## Code
-Contains all the necessary codes to reproduce the results in the manuscript.
+Contains all the necessary codes to reproduce the results in the manuscript:
 
 1. Holes (folder): Contains codes to construct Homological Scaffold
 
@@ -30,7 +30,7 @@ Contains all the necessary codes to reproduce the results in the manuscript.
 
 8. 06_NodePersist&Freq_1DHoles.ipynb: To calculate Node persistence and Node frequency. Also, performs the statistical test.
 
-9. 07_NeurosynthAnalaysis.ipynb: To perform Neurosynth meta analaysis.
+9. 07_NeurosynthAnalysis.ipynb: To perform Neurosynth meta analysis.
 
 10. 08_Homological_Scaffold_and_NodalPSS.ipynb: To calculate the Nodal PSS from homological scaffolds. Also, performs the statistical test.
 
