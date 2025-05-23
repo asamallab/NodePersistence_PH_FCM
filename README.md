@@ -22,7 +22,7 @@ Contains all the necessary codes to reproduce the results in the manuscript:
 
 4. 02_Gudhi_run_PEL1L2.ipynb: Calculates persistent entropy, $L^1$-norm, and $L^2$-norm, from the distance matrices on global scale using the Gudhi library.
 
-5. 03_Gudhi_run_RSNs_PELIL2.ipynb: Calculates persistent entropy, $L^1$-norm, and $L^2$-norm, from the distance matrices on RSN level using the Gudhi library.
+5. 03_Gudhi_run_RSNs_PEL1L2.ipynb: Calculates persistent entropy, $L^1$-norm, and $L^2$-norm, from the distance matrices on RSN level using the Gudhi library.
 
 6. 04_Wasserstein_distance.ipynb: Calculates 1-Wasserstein,  2-Wasserstein, and bottleneck distances, on global scale as well as RSN level using the Gudhi library.
 
@@ -30,7 +30,7 @@ Contains all the necessary codes to reproduce the results in the manuscript:
 
 8. 06_NodePersist&Freq_1DHoles.ipynb: To calculate Node persistence and Node frequency. Also, performs the statistical test.
 
-9. 07_NeurosynthAnalysis.ipynb: To perform Neurosynth meta analysis.
+9. 07_NeurosynthAnalysis.ipynb: To perform Neurosynth meta-analysis.
 
 10. 08_Homological_Scaffold_and_NodalPSS.ipynb: To calculate the Nodal PSS from homological scaffolds. Also, performs the statistical test.
 
