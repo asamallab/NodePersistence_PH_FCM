@@ -46,7 +46,7 @@ Contains all the necessary codes to reproduce the results in the manuscript:
 
 
 ## Data
-Contains the necessary data to obtain the plots:
+Contains the necessary data to perform the analysis and obtain the plots:
 
 1. ABIDE
 
@@ -76,7 +76,7 @@ d. MPILemon_Subject_details.csv: Details of the 225 subjects.
 
 
 ## OutputFiles
-Contains three folders: AllCorr, PosCorr, and Output_Plots
+Contains three folders: AllCorr, PosCorr, and Output_Plots, to save the results:
 
 1. AllCorr
 
