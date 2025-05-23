@@ -46,7 +46,7 @@ Contains all the necessary codes to reproduce the results in the manuscript:
 
 
 ## Data
-Contains the necessary data to obtain the plots
+Contains the necessary data to obtain the plots:
 
 1. ABIDE
 
