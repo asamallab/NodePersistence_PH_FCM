@@ -3,7 +3,7 @@
 ## About
 This repository contains the codes and data associated with the following manuscript: <br>
 
-Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, <i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i> <br>
+Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, [<i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i>](https://www.biorxiv.org/content/10.1101/2025.05.23.655816v1) bioRxiv 2025.05.23.655816.<br>
 (* Corresponding authors)
 <br>
 
@@ -96,4 +96,4 @@ Contains all the violin plots present in the manuscript (can be generated as wel
 ## Citation
 In case you use the codes herein, please cite the following manuscript:
 
-Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, <i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i>.
+Madhumita Mondal, Yasharth Yadav, Jürgen Jost*, and Areejit Samal*, [<i>Node persistence from topological data analysis reveals changes in brain functional connectivity</i>](https://www.biorxiv.org/content/10.1101/2025.05.23.655816v1) bioRxiv 2025.05.23.655816.
